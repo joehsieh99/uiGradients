@@ -1,4 +1,8 @@
-[
+[    
+   {
+        "name": "Oasis",
+        "colors": ["#3EBC7D", "#2E612E"]
+    },
     {
         "name": "Omolon",
         "colors": ["#091E3A", "#2F80ED", "#2D9EE0"]
